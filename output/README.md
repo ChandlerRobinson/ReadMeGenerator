@@ -1,10 +1,10 @@
 
-  # Task Tracker
+  # ReadMeGenerator
   
   ![License Badge](https://img.shields.io/badge/license-MIT-blue.svg)
   
   ## Description
-  This project is a comman line Task application
+  create professional indepth readmes for your projects
   
   ## Table of Contents
   - [Installation](#installation)
@@ -15,22 +15,22 @@
   - [Questions](#questions)
   
   ## Installation
-  To install you clone the repository than type npm install to get the dependencies
+  npm install
   
   ## Usage
-  follow the prompts that follow the node.js command
+  git pull from gitlab
   
   ## License
   This project is licensed under the MIT license.
   
   ## Contributing
-  contributions are welcome
+  none
   
   ## Tests
-  Chandler R
+  none
   
   ## Questions
   If you have any questions about the repo, feel free to contact me:
-  - GitHub: [Chandler Robinson](https://github.com/Chandler Robinson)
-  - Email: Chandler@gmail.com
+  - GitHub: [chandler robinson](https://github.com/chandler robinson)
+  - Email: chandler@gmail.com
     
