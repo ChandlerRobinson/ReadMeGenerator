@@ -1,10 +1,10 @@
 
-  # ReadMeGenerator
+  # readmegenerator
   
   ![License Badge](https://img.shields.io/badge/license-MIT-blue.svg)
   
   ## Description
-  create professional indepth readmes for your projects
+  generate professional readmes 
   
   ## Table of Contents
   - [Installation](#installation)
@@ -15,10 +15,10 @@
   - [Questions](#questions)
   
   ## Installation
-  npm install
+  git pull
   
   ## Usage
-  git pull from gitlab
+  answer questions to generate readme
   
   ## License
   This project is licensed under the MIT license.
@@ -27,10 +27,10 @@
   none
   
   ## Tests
-  none
+  node index.js
   
   ## Questions
   If you have any questions about the repo, feel free to contact me:
-  - GitHub: [chandler robinson](https://github.com/chandler robinson)
-  - Email: chandler@gmail.com
+  - GitHub: [chandler](https://github.com/chandler)
+  - Email: chandler@email.com
     
